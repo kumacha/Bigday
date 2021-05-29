@@ -1,0 +1,21 @@
+{
+  "name": "bigday-official-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.2",
+    "core-js": "^3.6.5",
+    "firebase": "^8.2.0",
+    "nuxt": "^2.14.6",
+    "zxcvbn": "^4.4.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
